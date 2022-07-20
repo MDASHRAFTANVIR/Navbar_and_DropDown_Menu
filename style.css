@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 header {
-    background:url(/picture.jpg);
+    background:url(image/picture.jpg);
     height: 600px;
     width: 100%;
     background-position: center;
